@@ -1,0 +1,14 @@
+opencv-python
+ffmpeg-python
+moviepy
+-f --extra-index-url https://download.pytorch.org/whl/cu116
+torch
+torchvision
+git+https://github.com/huggingface/diffusers
+transformers
+accelerate
+safetensors
+xformers
+scipy
+ftfy
+psutil
